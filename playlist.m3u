@@ -3,8 +3,6 @@
 rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,163,104,44,105
 #EXTINF:0,RTL Nitro
 rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,173,146,53,84
-#EXTINF:0,RTL Radio
-rtsp://10.0.0.158/?src=1&freq=12604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,7931,7932
 #EXTINF:0,RTLup
 rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,41,70,137,168
 #EXTINF:0,RTLZWEI
