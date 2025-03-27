@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0,RTL
+rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,163,104,44,105
+#EXTINF:0,RTL Nitro
+rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,173,146,53,84
+#EXTINF:0,RTL Radio
+rtsp://10.0.0.158/?src=1&freq=12604&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,7931,7932
+#EXTINF:0,RTLup
+rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,41,70,137,168
+#EXTINF:0,RTLZWEI
+rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,166,128,46,68
+#EXTINF:0,SAT.1
+rtsp://10.0.0.158/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,255,256,96,32
+#EXTINF:0,SAT.1 Gold
+rtsp://10.0.0.158/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,1279,1280,100,36
+#EXTINF:0,Super RTL
+rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,165,120,45,65
+#EXTINF:0,TOGGO plus
+rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,58,301,303
+#EXTINF:0,VOX
+rtsp://10.0.0.158/?src=1&freq=12188&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,167,136,47,71
+#EXTINF:0,VOXup
+rtsp://10.0.0.158/?src=1&freq=12226&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,600,601,602,603
+#EXTINF:0,ZDF HD
+rtsp://10.0.0.158/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6100,6110,6120,6130
+#EXTINF:0,ZDFinfo HD
+rtsp://10.0.0.158/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6700,6710,6720,6730
+#EXTINF:0,zdf_neo HD
+rtsp://10.0.0.158/?src=1&freq=11362&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6300,6310,6320,6330
+#EXTINF:0,SWR Aktuell
+rtsp://10.0.0.158/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,570,571
+#EXTINF:0,SWR HD
+rtsp://10.0.0.158/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5121,5122,5120,5124
+#EXTINF:0,SWR Kultur
+rtsp://10.0.0.158/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,520,521
+#EXTINF:0,SWR1 BW
+rtsp://10.0.0.158/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,500,501
+#EXTINF:0,SWR1 RP
+rtsp://10.0.0.158/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,510,511
+#EXTINF:0,SWR3
+rtsp://10.0.0.158/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,530,531
+#EXTINF:0,SWR4 BW
+rtsp://10.0.0.158/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,540,541
+#EXTINF:0,tagesschau24 HD
+rtsp://10.0.0.158/?src=1&freq=11053&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=off&sr=22000&fec=23&pids=0,17,18,5400,5401,5402
+#EXTINF:0,TELE 5
+rtsp://10.0.0.158/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,99,1535,1536
+#EXTINF:0,Pro7 MAXX
+rtsp://10.0.0.158/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,101,1535,1536
+#EXTINF:0,ProSieben
+rtsp://10.0.0.158/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,97,511,512,33
+#EXTINF:0,Nick/Comedy Central+1
+rtsp://10.0.0.158/?src=1&freq=11973&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,420,4101,4102,4103
+#EXTINF:0,n-tv
+rtsp://10.0.0.158/?src=1&freq=12187&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,48,169,73
+#EXTINF:0,N24 DOKU
+rtsp://10.0.0.158/?src=1&freq=12460&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,97,511,512
+#EXTINF:0,kabel eins
+rtsp://10.0.0.158/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,767,768,98,34
+#EXTINF:0,kabel eins Doku
+rtsp://10.0.0.158/?src=1&freq=12545&pol=h&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=22000&fec=56&pids=0,17,18,41,105,2559,2560
+#EXTINF:0,KiKA HD
+rtsp://10.0.0.158/?src=1&freq=11347&pol=v&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,6600,6610,6620,6630
+#EXTINF:0,DMAX
+rtsp://10.0.0.158/?src=1&freq=12480&pol=v&ro=0.35&msys=dvbs&mtype=qpsk&plts=off&sr=27500&fec=34&pids=0,17,18,3327,3328,108,44
+#EXTINF:0,Das Erste HD
+rtsp://10.0.0.158/?src=1&freq=11494&pol=h&ro=0.35&msys=dvbs2&mtype=8psk&plts=on&sr=22000&fec=23&pids=0,17,18,5100,5101,5102,5104
